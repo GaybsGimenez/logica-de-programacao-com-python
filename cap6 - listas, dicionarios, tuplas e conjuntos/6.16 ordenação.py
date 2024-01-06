@@ -49,5 +49,47 @@ while fim > 1:
 for e in L:
     # imprime o elemento
     print(e)
+
+
+"""
+# exercicio 6.14. O que acontece quando a lista já está ordenada? Rastreie o programa anterior, mas com a lista  L = [1, 2, 3, 4, 5].
+Resposta: quando a lista já está ordenada, o loop while fim > 1 é executado apenas uma vez, pois o valor de fim é decrementado em 1 a cada passada pelo loop. ou seja, 
+o loop while fim > 1 é executado 4 vezes, pois o valor de fim é decrementado em 1 a cada passada pelo loop.
+
+
+# exercicio 6.15. O que acontece quando dois valores são iguais? Rastreie o programa anterior, mas com a lista  L = [3, 3, 1, 5, 4].
+Resposta: quando dois valores são iguais o valores são trocados de lugar, indepentente da ordem em que aparecem na lista.
+
+
+# exercicio 6.16 Modifique o programa anterior para ordenar a lista em ordem DECRESCENTE. L = [1, 2, 3, 4, 5] deve ser ordenada como [5, 4, 3, 2, 1].
+Resposta: para ordenar a lista em ordem decrescente, basta trocar a condição do if L[x] > L[x + 1] para L[x] < L[x + 1], pois se o elemento da posição x for menor que o elemento da posição x + 1, os elementos são trocados de lugar.
+"""    
+
+# SORT() - ordena a lista em ordem crescente ou decrescente de forma mais eficiente que o bubble sort pois não troca os elementos de lugar e sim cria uma nova lista é MAIS EFICIENTE QUE O BUBBLE SORT
+
+# exemplo 6.21: ordenação pelo método sort()
+
+# L é uma lista qualquer
+L = [7, 4, 3, 12, 8]
+# .sort é um método que ordena a lista em ordem crescente, métodos são funções que pertencem a um objeto, no caso, o objeto é a lista L
+L.sort()
+# para cada elemento e na lista L
+for e in L:
+    # imprime o elemento
+    print(e)
     
-    
+# Se desejar ordenar uma lista, sem alterar seus elementos, pode-se usar a função sorted().
+# exemplo 6.22: ordenação pelo método sorted()
+ 
+# Z é uma lista qualquer
+Z = [7, 4, 3, 12, 8]
+# sorted() é uma função que ordena a lista em ordem crescente, sorted() é uma função que não altera a lista original, mas cria uma nova lista ordenada
+sorted(Z)
+
+# se imprimir a lista Z, ela não estará ordenada, pois a função sorted() não altera a lista original. para ter acesso a lista ordenada, é necessário atribuir a lista ordenada a uma variável
+# exemplo 6.23: ordenação pelo método sorted() atribuindo a lista ordenada a uma variável
+
+# Z é uma lista qualquer
+Z = [7, 4, 3, 12, 8]
+# Z_ordenada recebe a lista Z ordenada
+Z_ordenada = sorted(Z)
