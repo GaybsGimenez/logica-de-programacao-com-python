@@ -12,7 +12,9 @@ Páginas: 328
 
 > Cada pasta contem minhas observações e anotações de estudo a partir do livro. NÃO HÁ CÓPIA DE NENHUM PARTE DO LIVRO NESTE REPOSITÓRIO.
 
-> Cada pasta se refere à cada capitulo. as resoluções comentadas, estão disponíveis online pelo link: https://python.nilo.pro.br/exercicios3/capitulo%2006/exercicio-06-01.html 
+> Cada pasta se refere à cada capitulo.
+
+> As resoluções comentadas, também estão disponíveis online pelo link oficial: https://python.nilo.pro.br/exercicios3/capitulo%2006/exercicio-06-01.html 
 
 
 ## Capítulo 1 ■ Motivação
