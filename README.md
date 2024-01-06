@@ -1,7 +1,18 @@
 # Estudo de lógica de programação com python
 
-Cada pasta contem minhas observações e anotações de estudo a partir do livro. 
-Cada pasta se refere à cada capitulo. as resoluções comentadas, estão disponíveis online pelo link: https://python.nilo.pro.br/exercicios3/capitulo%2006/exercicio-06-01.html 
+'''
+Título: Introdução à Programação com Python
+Autor: Nilo Ney Coutinho Menezes
+Edição: Terceira
+ISBN: 978-85-7522-718-3
+Editora: Novatec
+Ano: 2019
+Páginas: 328
+'''
+
+> Cada pasta contem minhas observações e anotações de estudo a partir do livro. NÃO HÁ CÓPIA DE NENHUM PARTE DO LIVRO NESTE REPOSITÓRIO.
+
+> Cada pasta se refere à cada capitulo. as resoluções comentadas, estão disponíveis online pelo link: https://python.nilo.pro.br/exercicios3/capitulo%2006/exercicio-06-01.html 
 
 
 ## Capítulo 1 ■ Motivação
