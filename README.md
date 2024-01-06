@@ -177,4 +177,4 @@ Páginas: 328
 * A.5 ValueError
 * A.6 TypeError
 * A.7 IndexError
-* * A.8 TabError 
+* A.8 TabError 
