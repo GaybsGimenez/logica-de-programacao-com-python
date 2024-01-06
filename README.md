@@ -4,10 +4,10 @@ Cada pasta contem minhas observações e anotações de estudo a partir do livro
 Cada pasta se refere à cada capitulo. as resoluções comentadas, estão disponíveis online pelo link: https://python.nilo.pro.br/exercicios3/capitulo%2006/exercicio-06-01.html 
 
 
-Capítulo 1 ■ Motivação............................................................................................................20\n 
-1.1 Você quer aprender a programar? ................................................................20 
-1.2 Como está seu nível de paciência? ..............................................................21 
-1.3 Quanto tempo você pretende estudar? ........................................................22 
+Capítulo 1 ■ Motivação 
+1.1 Você quer aprender a programar?
+1.2 Como está seu nível de paciência?
+1.3 Quanto tempo você pretende estudar? 
 1.4 Programar para quê?..................................................................................22 
 1.4.1 Escrever páginas web ..........................................................................22 
 1.4.2 Acertar seu relógio..............................................................................23 
