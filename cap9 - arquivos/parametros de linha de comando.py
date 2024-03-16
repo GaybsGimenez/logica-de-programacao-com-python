@@ -24,4 +24,6 @@ for n, p in enumerate(sys.argv):
 
 # fparam.py primeiro segundo terceiro
 # fparam.py 1 2 3
-# 
+
+# EXERCICIO
+
